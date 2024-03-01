@@ -1,0 +1,1001 @@
+id,category,price_tier,neighbourhood,opening_time,closing_time,average_rating,good_for_kids
+1,American,expensive,Chinatown,10:49,19:00,2.04,1
+2,Thai,expensive,Gramercy,9:53,7:45,3.32,1
+3,Japanese,medium,Chinatown,10:24,15:17,3.38,1
+4,French,cheap,Long Island City,8:36,13:47,1.2,0
+5,French,medium,Upper West Side,11:27,13:51,4.41,1
+6,Mexican,expensive,Koreatown,11:32,3:05,4.94,1
+7,American,cheap,Gramercy,12:28,16:31,1.12,1
+8,Somali,expensive,Union Square,11:22,10:34,2.86,1
+9,Mediterranean,cheap,Upper West Side,10:17,12:03,4.28,0
+10,American,expensive,Brooklyn Heights,13:11,6:51,4.85,0
+11,Mediterranean,cheap,Brooklyn Heights,8:52,9:47,3.94,1
+12,Indian,cheap,Chinatown,13:36,8:18,4.29,0
+13,Mexican,expensive,Hell's Kitchen,8:43,18:44,4.24,1
+14,Ethiopian,cheap,Upper West Side,9:32,12:13,3.81,1
+15,French,medium,Park Slope,10:04,5:32,4.34,0
+16,Somali,expensive,Koreatown,12:21,10:36,2.0,1
+17,Burmese,medium,East Village,13:26,14:04,2.15,0
+18,Mediterranean,cheap,Long Island City,13:23,6:06,3.44,0
+19,Ethiopian,expensive,Harlem,13:52,10:02,3.83,1
+20,Greek,medium,Greenwich Village,12:08,13:22,3.15,1
+21,Indian,expensive,Upper East Side,12:44,16:35,3.69,0
+22,Greek,medium,East Village,11:44,7:00,4.33,0
+23,Burmese,cheap,Upper West Side,10:39,17:55,4.39,0
+24,Somali,cheap,Greenwich Village,11:04,15:15,4.87,1
+25,Thai,cheap,FiDi,12:19,9:14,4.3,1
+26,Burmese,medium,Greenwich Village,10:05,18:16,4.38,1
+27,Greek,medium,Chelsea,10:45,18:20,4.66,1
+28,Mexican,cheap,FiDi,13:53,8:27,3.4,1
+29,Thai,medium,SoHo,13:24,13:57,4.72,0
+30,Thai,cheap,Park Slope,11:30,3:25,2.57,1
+31,Burmese,expensive,East Village,13:06,13:25,2.0,1
+32,Thai,medium,Astoria,9:14,13:33,1.57,0
+33,Mexican,medium,Astoria,10:53,15:11,3.94,0
+34,Indian,cheap,Harlem,13:01,18:25,2.54,0
+35,Somali,medium,Koreatown,11:18,5:52,1.68,1
+36,French,cheap,Upper East Side,11:43,7:39,4.45,1
+37,Japanese,expensive,Gramercy,12:49,7:43,2.34,1
+38,Somali,medium,Greenwich Village,11:15,18:49,2.16,0
+39,Mediterranean,medium,Brooklyn Heights,9:44,16:34,1.46,0
+40,Mediterranean,expensive,Long Island City,8:49,5:37,1.83,0
+41,Greek,cheap,Astoria,8:37,5:15,4.41,0
+42,Burmese,cheap,Chelsea,10:10,11:55,2.88,1
+43,Mexican,cheap,Union Square,11:04,19:38,3.84,0
+44,Thai,medium,Long Island City,12:20,17:57,4.73,0
+45,Thai,expensive,Chelsea,10:27,4:26,4.04,1
+46,Greek,expensive,FiDi,11:25,9:38,4.48,1
+47,American,cheap,Harlem,8:34,9:56,2.95,0
+48,Greek,expensive,Union Square,13:03,2:24,3.19,0
+49,French,cheap,Brooklyn Heights,9:27,14:27,2.94,0
+50,Chinese,medium,Upper East Side,12:31,15:06,4.89,1
+51,Mexican,expensive,Harlem,13:08,12:51,4.87,1
+52,Indian,medium,Tribeca,12:39,17:20,4.53,0
+53,Greek,expensive,Hell's Kitchen,10:56,6:53,3.51,1
+54,American,cheap,Tribeca,12:47,13:18,2.04,1
+55,Mediterranean,medium,Koreatown,9:07,13:19,4.7,1
+56,Indian,medium,Park Slope,12:19,15:00,3.5,1
+57,Chinese,medium,Hell's Kitchen,11:49,15:05,1.26,0
+58,Mediterranean,expensive,Brooklyn Heights,11:13,9:52,3.59,1
+59,Somali,medium,Brooklyn Heights,9:54,2:16,1.65,1
+60,Burmese,expensive,Chinatown,10:47,8:27,3.74,1
+61,Somali,expensive,SoHo,11:56,16:33,3.91,1
+62,Burmese,medium,Tribeca,9:39,17:18,4.97,0
+63,French,medium,Gramercy,10:19,7:10,3.07,1
+64,French,cheap,East Village,11:38,17:30,4.56,0
+65,Indian,expensive,Tribeca,9:38,4:13,3.01,1
+66,Thai,expensive,Upper West Side,12:24,7:10,2.39,1
+67,American,medium,Chelsea,8:40,13:42,4.68,1
+68,Indian,cheap,Harlem,12:29,12:34,1.32,1
+69,Somali,medium,East Village,11:30,8:17,1.56,0
+70,Thai,cheap,Greenwich Village,13:30,5:31,3.24,1
+71,Thai,expensive,Park Slope,10:37,19:08,3.83,0
+72,American,cheap,Gramercy,12:33,2:53,3.46,1
+73,Indian,expensive,Chinatown,13:25,11:23,4.15,0
+74,Thai,cheap,Upper East Side,13:45,10:15,2.48,1
+75,Chinese,expensive,Brooklyn Heights,10:44,11:41,2.76,1
+76,American,cheap,Union Square,10:40,15:12,1.67,1
+77,Somali,cheap,Greenwich Village,9:47,2:37,2.76,1
+78,Burmese,medium,Upper East Side,13:13,5:16,4.8,1
+79,Thai,cheap,Chelsea,12:24,19:21,4.35,1
+80,Somali,expensive,Astoria,11:33,4:22,3.13,1
+81,Mediterranean,expensive,Hell's Kitchen,13:47,3:31,1.14,1
+82,Greek,expensive,FiDi,8:44,13:40,3.09,1
+83,Italian,medium,FiDi,12:26,4:24,3.09,1
+84,Italian,cheap,Dumbo,9:21,11:53,1.92,0
+85,Mediterranean,expensive,Brooklyn Heights,8:52,16:38,2.24,1
+86,Somali,expensive,Upper East Side,9:36,14:52,1.47,1
+87,Italian,cheap,Union Square,11:20,5:01,2.9,1
+88,American,cheap,Park Slope,10:21,5:20,3.3,1
+89,Burmese,cheap,Dumbo,8:39,11:16,2.92,0
+90,Thai,cheap,Chinatown,10:57,3:41,3.54,0
+91,French,cheap,Hell's Kitchen,10:29,19:53,2.38,1
+92,Thai,medium,FiDi,9:19,19:48,3.35,1
+93,Burmese,medium,Park Slope,13:29,17:38,4.37,1
+94,Indian,cheap,FiDi,8:34,15:17,1.16,1
+95,Chinese,expensive,Hell's Kitchen,12:48,15:14,1.58,0
+96,Greek,expensive,Greenwich Village,9:51,10:14,1.99,1
+97,French,cheap,Gramercy,9:27,14:47,4.73,0
+98,Somali,expensive,Tribeca,11:41,19:43,3.8,0
+99,Burmese,medium,Dumbo,10:57,13:36,4.95,0
+100,Ethiopian,cheap,Chinatown,11:28,3:35,3.34,1
+101,Mexican,medium,SoHo,10:04,9:32,1.77,0
+102,Ethiopian,medium,Brooklyn Heights,10:49,9:08,4.03,0
+103,French,expensive,Upper East Side,12:04,19:25,3.71,0
+104,Mexican,cheap,SoHo,11:46,8:00,2.01,0
+105,Mediterranean,expensive,Astoria,9:29,12:49,2.5,1
+106,Mediterranean,expensive,Brooklyn Heights,12:30,2:03,3.49,0
+107,Indian,cheap,Harlem,13:31,9:11,2.1,0
+108,American,expensive,Brooklyn Heights,11:38,3:42,4.65,1
+109,Greek,medium,Greenwich Village,11:44,4:06,1.07,1
+110,Chinese,cheap,Greenwich Village,10:52,12:57,3.75,1
+111,Mediterranean,medium,Hell's Kitchen,9:27,6:20,2.29,1
+112,Italian,cheap,Union Square,11:34,3:02,2.74,0
+113,American,cheap,Park Slope,9:10,15:26,1.59,1
+114,Somali,cheap,Astoria,12:08,14:07,2.96,1
+115,Mediterranean,cheap,Astoria,9:47,11:42,1.75,1
+116,Chinese,expensive,Astoria,8:57,9:21,4.49,0
+117,French,expensive,Greenwich Village,12:07,14:54,4.68,1
+118,Mediterranean,medium,Williamsburg,12:06,5:13,1.33,0
+119,Japanese,medium,Chelsea,11:46,5:09,4.71,1
+120,Japanese,expensive,Dumbo,11:50,4:08,4.59,1
+121,Mediterranean,medium,Koreatown,10:42,15:20,2.13,1
+122,Indian,cheap,Long Island City,13:47,11:19,2.12,1
+123,Mexican,expensive,Gramercy,12:51,9:25,2.38,0
+124,Burmese,cheap,Hell's Kitchen,12:19,14:57,4.41,0
+125,Japanese,expensive,Brooklyn Heights,9:50,18:10,4.48,1
+126,Japanese,cheap,Union Square,13:03,16:10,3.65,0
+127,Italian,cheap,Harlem,8:58,5:49,2.53,1
+128,American,expensive,Astoria,12:40,12:46,1.05,1
+129,Chinese,expensive,Gramercy,9:08,7:12,2.63,0
+130,Somali,cheap,Williamsburg,8:35,8:38,3.83,0
+131,Indian,expensive,Greenwich Village,10:39,10:58,3.96,1
+132,Mediterranean,medium,Koreatown,13:22,9:19,4.58,1
+133,Mexican,medium,Union Square,9:13,4:30,1.27,0
+134,Mediterranean,expensive,Tribeca,9:31,3:45,4.1,0
+135,Italian,expensive,Dumbo,12:29,19:52,4.27,0
+136,Japanese,expensive,Long Island City,12:56,14:12,1.58,0
+137,Greek,medium,Park Slope,12:28,5:00,2.28,1
+138,American,cheap,Chinatown,13:06,15:06,4.4,0
+139,Indian,expensive,Astoria,12:40,3:21,4.15,0
+140,American,expensive,Harlem,13:40,2:24,1.0,0
+141,American,cheap,Gramercy,10:21,9:53,2.46,1
+142,Greek,medium,Park Slope,10:10,11:50,2.54,1
+143,Japanese,cheap,Chelsea,10:50,3:55,4.71,1
+144,Mediterranean,cheap,Gramercy,12:37,9:25,4.9,0
+145,Ethiopian,expensive,Hell's Kitchen,10:38,13:30,2.05,0
+146,Thai,expensive,Hell's Kitchen,11:59,12:12,1.77,1
+147,French,medium,Astoria,10:59,11:58,1.94,1
+148,American,expensive,Williamsburg,11:35,9:59,4.21,1
+149,Mexican,medium,Gramercy,10:22,7:42,1.21,0
+150,Chinese,expensive,Long Island City,9:09,2:50,3.3,0
+151,American,cheap,Park Slope,13:02,5:13,3.33,0
+152,Japanese,medium,Gramercy,13:08,11:15,2.19,0
+153,Japanese,expensive,Harlem,10:17,7:14,2.95,1
+154,Japanese,cheap,Park Slope,9:34,10:41,4.34,1
+155,Greek,cheap,Hell's Kitchen,10:54,5:09,4.65,0
+156,Japanese,medium,Tribeca,10:55,5:53,1.21,1
+157,Ethiopian,expensive,SoHo,8:59,11:11,1.89,0
+158,Thai,cheap,Gramercy,13:40,9:14,2.81,0
+159,Mediterranean,medium,Park Slope,11:13,9:43,2.32,0
+160,Japanese,cheap,SoHo,11:28,12:31,2.08,0
+161,Mediterranean,medium,Greenwich Village,13:18,12:20,4.46,1
+162,Mexican,expensive,Park Slope,8:46,19:37,4.72,1
+163,Mediterranean,cheap,Upper East Side,11:47,5:52,3.07,0
+164,Mexican,expensive,East Village,11:55,10:15,2.62,0
+165,Somali,medium,Astoria,10:59,10:48,3.44,1
+166,Japanese,medium,Koreatown,12:26,2:16,1.57,1
+167,Italian,medium,Brooklyn Heights,13:02,14:06,3.92,0
+168,Ethiopian,medium,Hell's Kitchen,9:58,4:20,4.35,0
+169,Mexican,cheap,Dumbo,10:36,14:30,3.81,0
+170,Mexican,medium,Upper West Side,9:39,13:31,3.24,0
+171,Mediterranean,expensive,Long Island City,11:35,17:05,3.95,1
+172,Mexican,medium,Brooklyn Heights,13:15,9:56,4.48,1
+173,Thai,medium,Greenwich Village,13:08,6:07,2.71,1
+174,American,medium,Williamsburg,12:30,14:05,2.5,0
+175,Italian,expensive,Greenwich Village,12:48,4:51,4.49,1
+176,Indian,cheap,Williamsburg,13:57,17:03,1.05,1
+177,French,expensive,Chinatown,10:24,19:21,1.65,1
+178,American,cheap,Park Slope,11:24,10:06,3.35,0
+179,Burmese,medium,Tribeca,9:31,17:29,4.8,0
+180,Mediterranean,expensive,Harlem,12:02,17:03,4.16,0
+181,French,cheap,Koreatown,9:53,13:01,2.4,1
+182,French,medium,Dumbo,10:01,3:21,2.07,1
+183,Ethiopian,expensive,Long Island City,11:00,16:55,3.21,1
+184,Mediterranean,expensive,Gramercy,13:58,18:07,1.14,0
+185,French,cheap,Brooklyn Heights,10:45,11:18,4.17,0
+186,Thai,medium,Chelsea,10:46,2:23,4.46,0
+187,Somali,cheap,Astoria,13:23,12:38,4.1,0
+188,American,cheap,Upper East Side,12:27,4:20,1.52,0
+189,Somali,cheap,Astoria,11:32,18:52,3.13,1
+190,Mediterranean,cheap,Williamsburg,10:59,4:18,1.01,1
+191,Somali,medium,Koreatown,8:50,7:02,2.66,0
+192,Burmese,cheap,East Village,11:59,12:37,4.58,0
+193,Somali,expensive,Greenwich Village,12:43,5:01,3.45,0
+194,Mediterranean,expensive,Brooklyn Heights,9:16,2:13,2.82,1
+195,Indian,medium,Tribeca,10:16,9:03,3.64,0
+196,Chinese,cheap,FiDi,10:29,6:11,4.13,1
+197,Italian,medium,Harlem,12:52,14:13,2.76,1
+198,Burmese,expensive,Park Slope,9:12,6:29,3.72,1
+199,American,medium,Greenwich Village,13:16,18:05,3.37,0
+200,American,cheap,Dumbo,9:40,15:13,1.42,1
+201,Italian,expensive,Tribeca,12:01,12:21,2.61,1
+202,Mediterranean,medium,Chelsea,10:43,11:21,4.25,0
+203,Greek,medium,Koreatown,9:24,5:06,3.29,0
+204,Thai,medium,Hell's Kitchen,11:18,2:51,1.81,1
+205,Burmese,medium,Hell's Kitchen,10:50,13:51,2.76,0
+206,Greek,medium,Dumbo,9:38,11:20,4.1,1
+207,Indian,expensive,SoHo,12:22,7:16,2.41,1
+208,Chinese,medium,Upper West Side,12:16,13:39,1.53,1
+209,Mediterranean,cheap,Williamsburg,12:12,14:52,2.57,1
+210,Mediterranean,expensive,Chinatown,13:44,3:44,3.87,0
+211,Somali,cheap,Harlem,9:57,4:20,1.8,1
+212,American,expensive,Williamsburg,13:29,7:24,3.23,0
+213,Mediterranean,medium,Dumbo,11:02,7:10,4.16,0
+214,Mediterranean,medium,Koreatown,10:18,8:53,1.17,0
+215,Mexican,medium,Hell's Kitchen,12:29,13:59,4.82,0
+216,Indian,expensive,Brooklyn Heights,9:12,15:49,3.0,1
+217,Chinese,medium,SoHo,10:01,19:38,1.87,0
+218,Chinese,expensive,Hell's Kitchen,8:47,14:32,2.12,0
+219,Italian,cheap,FiDi,9:58,12:03,3.47,0
+220,Italian,medium,Astoria,11:13,7:22,4.03,0
+221,Italian,medium,Upper West Side,12:00,14:15,3.77,0
+222,Ethiopian,medium,Upper East Side,9:38,8:07,1.4,1
+223,Greek,medium,Harlem,10:32,12:07,4.18,0
+224,Mexican,expensive,Upper West Side,13:40,5:29,2.15,1
+225,Greek,expensive,Long Island City,9:46,13:10,3.49,0
+226,Mexican,medium,Chelsea,11:05,15:27,4.03,0
+227,American,expensive,East Village,12:33,14:31,4.46,0
+228,French,medium,Tribeca,11:50,13:14,1.0,1
+229,Mexican,cheap,SoHo,12:38,4:19,4.12,1
+230,Somali,cheap,Park Slope,13:19,2:52,3.44,1
+231,Japanese,expensive,FiDi,9:38,18:17,2.3,0
+232,Thai,expensive,Greenwich Village,10:34,2:07,4.64,1
+233,Chinese,medium,Upper East Side,11:26,2:24,1.75,1
+234,American,medium,Greenwich Village,13:49,13:13,1.02,1
+235,Burmese,expensive,Chelsea,9:21,13:52,4.5,0
+236,Ethiopian,cheap,FiDi,9:19,9:26,2.5,0
+237,French,medium,Upper West Side,10:57,9:58,3.7,0
+238,Somali,expensive,Long Island City,13:51,11:48,2.71,0
+239,Greek,cheap,Dumbo,12:30,16:51,2.21,0
+240,Chinese,medium,FiDi,13:01,15:20,4.86,1
+241,Thai,medium,Dumbo,13:39,6:26,3.59,0
+242,Indian,expensive,Chinatown,10:48,7:13,1.46,0
+243,Somali,medium,Chinatown,9:37,13:57,3.51,0
+244,Chinese,expensive,Park Slope,8:37,17:25,2.76,0
+245,Indian,cheap,Hell's Kitchen,12:09,13:43,2.56,0
+246,Italian,expensive,FiDi,13:08,14:14,3.97,1
+247,Mediterranean,expensive,Long Island City,8:53,7:36,2.9,1
+248,Japanese,expensive,Koreatown,11:21,10:36,3.72,0
+249,Somali,expensive,Upper West Side,12:05,12:43,1.61,0
+250,Somali,expensive,Astoria,9:51,13:30,2.23,0
+251,Chinese,cheap,Park Slope,11:54,10:51,2.93,1
+252,Mediterranean,medium,Chinatown,12:11,7:28,1.95,1
+253,Thai,expensive,Hell's Kitchen,12:29,10:50,2.26,1
+254,Burmese,cheap,Hell's Kitchen,13:44,5:25,3.5,1
+255,Mediterranean,expensive,East Village,13:17,13:31,2.38,1
+256,Italian,expensive,Chelsea,11:30,2:14,2.65,0
+257,Italian,medium,Union Square,13:41,3:04,1.78,1
+258,Greek,expensive,East Village,13:16,12:40,4.74,1
+259,American,medium,Harlem,13:23,10:14,1.27,0
+260,Indian,expensive,Hell's Kitchen,13:12,10:58,3.43,0
+261,American,medium,Tribeca,10:49,12:06,4.12,1
+262,Italian,cheap,Brooklyn Heights,13:04,4:59,1.06,0
+263,Japanese,medium,Brooklyn Heights,8:57,5:04,1.44,0
+264,Chinese,expensive,Park Slope,13:26,15:52,1.55,0
+265,American,medium,Chinatown,13:28,5:23,4.18,1
+266,Italian,cheap,Williamsburg,13:13,9:31,4.3,1
+267,Japanese,medium,Union Square,9:28,17:29,2.62,1
+268,Ethiopian,cheap,Greenwich Village,10:34,5:03,3.3,1
+269,Burmese,medium,Tribeca,10:52,6:38,1.58,0
+270,Chinese,expensive,Williamsburg,10:31,9:06,3.87,1
+271,Somali,medium,Astoria,9:45,14:47,1.96,1
+272,Thai,medium,Park Slope,12:08,17:22,3.8,1
+273,Somali,medium,Chelsea,9:46,13:48,3.37,0
+274,Burmese,expensive,Park Slope,9:17,15:16,3.14,0
+275,Ethiopian,cheap,FiDi,13:01,12:01,1.49,0
+276,Ethiopian,medium,Chelsea,8:49,11:00,3.46,1
+277,Somali,medium,SoHo,13:44,6:38,1.36,0
+278,French,expensive,Williamsburg,11:32,5:47,4.06,1
+279,Somali,expensive,East Village,13:59,4:59,1.66,0
+280,Japanese,expensive,East Village,11:29,9:47,1.49,1
+281,Burmese,expensive,Tribeca,11:05,3:17,3.85,1
+282,Japanese,expensive,FiDi,10:01,9:33,3.36,0
+283,Thai,medium,Dumbo,10:43,8:31,4.45,1
+284,French,expensive,Upper East Side,11:09,8:46,1.72,0
+285,Thai,expensive,East Village,13:24,12:07,2.38,1
+286,French,expensive,Tribeca,8:30,18:38,3.66,1
+287,Somali,expensive,Union Square,9:38,14:18,1.91,1
+288,Japanese,cheap,Hell's Kitchen,13:05,3:01,4.03,0
+289,Japanese,expensive,Upper East Side,11:21,4:15,4.65,0
+290,Japanese,medium,Union Square,12:30,14:19,3.41,0
+291,Chinese,medium,Williamsburg,12:42,4:43,2.47,1
+292,Japanese,expensive,Dumbo,9:57,8:54,4.42,0
+293,Japanese,expensive,Brooklyn Heights,8:57,16:49,4.01,0
+294,Mexican,medium,Long Island City,12:49,7:15,2.49,0
+295,Burmese,cheap,Greenwich Village,11:16,17:42,2.82,0
+296,Ethiopian,cheap,Chinatown,10:38,4:18,4.86,1
+297,American,medium,Dumbo,8:33,13:31,4.86,0
+298,Mediterranean,expensive,Upper West Side,8:50,10:43,1.53,0
+299,Mediterranean,expensive,Astoria,11:24,4:43,3.02,0
+300,American,cheap,Hell's Kitchen,11:14,8:31,4.61,0
+301,Italian,expensive,Gramercy,10:06,6:12,1.36,1
+302,Burmese,expensive,SoHo,12:42,9:45,2.52,0
+303,French,medium,Brooklyn Heights,11:29,18:26,2.43,1
+304,Somali,cheap,Hell's Kitchen,13:38,14:20,3.62,1
+305,Mediterranean,expensive,Long Island City,8:43,17:01,1.33,1
+306,French,cheap,Greenwich Village,13:57,15:15,3.26,0
+307,Greek,cheap,Hell's Kitchen,13:40,19:10,3.79,0
+308,Mediterranean,cheap,Williamsburg,13:46,7:02,4.89,0
+309,Japanese,cheap,SoHo,13:06,5:27,3.97,1
+310,Japanese,medium,Chinatown,11:37,19:57,2.21,0
+311,Mediterranean,cheap,Union Square,9:23,4:25,2.92,1
+312,Mediterranean,expensive,SoHo,8:30,8:44,4.98,0
+313,French,cheap,Astoria,8:54,16:25,2.9,1
+314,French,medium,SoHo,12:44,9:37,2.55,1
+315,Ethiopian,medium,Williamsburg,10:18,18:05,2.69,1
+316,Italian,medium,Greenwich Village,9:22,12:30,1.7,0
+317,Thai,expensive,Harlem,9:35,12:08,1.4,1
+318,Italian,expensive,Dumbo,11:09,15:10,3.95,0
+319,Chinese,cheap,Upper West Side,11:55,8:57,1.73,0
+320,Indian,expensive,SoHo,12:50,10:20,3.28,0
+321,Burmese,expensive,East Village,12:23,6:39,3.14,1
+322,Chinese,expensive,SoHo,11:11,10:26,2.44,0
+323,Indian,medium,Astoria,11:04,2:46,2.1,0
+324,Mediterranean,expensive,Upper East Side,12:29,5:50,2.62,1
+325,Thai,expensive,SoHo,8:40,10:46,2.68,1
+326,Mediterranean,medium,Union Square,8:39,13:55,2.17,0
+327,Mexican,medium,East Village,9:49,18:04,3.29,1
+328,Ethiopian,cheap,Upper West Side,13:10,12:13,2.54,0
+329,Chinese,cheap,Greenwich Village,9:55,2:16,3.36,0
+330,Chinese,medium,Hell's Kitchen,11:12,4:21,1.84,0
+331,Greek,expensive,Tribeca,13:39,2:08,4.78,1
+332,Chinese,medium,SoHo,10:55,10:04,4.54,1
+333,Chinese,cheap,Park Slope,10:33,9:10,1.64,0
+334,Japanese,medium,Dumbo,8:48,11:35,2.01,1
+335,Japanese,medium,Brooklyn Heights,11:16,12:25,3.41,0
+336,Mediterranean,cheap,Harlem,9:00,11:27,1.81,0
+337,Thai,cheap,Koreatown,10:40,7:03,2.17,1
+338,Greek,medium,Greenwich Village,12:50,19:03,1.39,1
+339,French,medium,Upper West Side,12:28,7:17,4.08,0
+340,Indian,cheap,Tribeca,12:23,12:10,1.74,0
+341,Mediterranean,medium,Park Slope,11:51,3:41,2.26,1
+342,Greek,medium,FiDi,8:54,6:16,1.58,1
+343,Somali,medium,Koreatown,11:46,6:26,3.3,0
+344,Mediterranean,medium,Koreatown,13:29,10:28,3.2,1
+345,Mexican,expensive,Harlem,13:29,13:07,4.2,0
+346,Mediterranean,medium,Tribeca,13:19,3:47,2.72,0
+347,Somali,cheap,Upper West Side,13:46,19:42,4.19,1
+348,Mexican,cheap,Harlem,11:59,5:17,2.82,1
+349,Greek,expensive,Gramercy,10:02,11:14,4.33,0
+350,Japanese,medium,Dumbo,9:11,13:18,2.49,0
+351,Greek,expensive,FiDi,13:29,8:59,2.43,1
+352,Mediterranean,cheap,Williamsburg,10:56,11:50,3.34,1
+353,Ethiopian,expensive,East Village,10:07,5:29,2.11,1
+354,Indian,cheap,East Village,12:44,15:21,2.25,0
+355,Mediterranean,expensive,Gramercy,9:10,11:26,2.63,1
+356,French,expensive,Dumbo,8:33,13:32,2.43,0
+357,Indian,medium,Chinatown,11:59,4:21,2.86,0
+358,Japanese,expensive,Chinatown,8:44,8:38,2.61,1
+359,Mediterranean,cheap,Harlem,9:27,2:23,3.27,0
+360,Somali,expensive,Harlem,10:11,19:48,2.29,1
+361,Mediterranean,expensive,Williamsburg,13:44,16:15,4.27,1
+362,Ethiopian,medium,Harlem,9:56,7:22,1.02,0
+363,Mediterranean,medium,Astoria,12:31,16:20,4.09,0
+364,Somali,cheap,Hell's Kitchen,9:41,9:47,4.11,1
+365,French,medium,Park Slope,8:56,19:48,4.45,0
+366,Thai,medium,Chelsea,12:19,8:09,2.62,0
+367,Mediterranean,expensive,SoHo,10:07,13:52,3.66,1
+368,Ethiopian,medium,Greenwich Village,10:39,8:52,3.02,1
+369,Japanese,cheap,Chelsea,12:23,18:57,2.0,1
+370,French,cheap,Hell's Kitchen,9:54,12:27,1.44,0
+371,Mediterranean,cheap,Hell's Kitchen,10:45,11:34,2.23,0
+372,American,medium,SoHo,8:51,11:46,4.98,1
+373,French,cheap,Tribeca,10:45,2:56,1.53,1
+374,Mexican,medium,Chinatown,9:18,19:11,1.34,1
+375,Indian,expensive,Astoria,13:04,2:08,4.21,0
+376,Mediterranean,cheap,Hell's Kitchen,12:03,14:45,3.38,1
+377,Chinese,cheap,Long Island City,10:35,14:40,1.18,1
+378,Ethiopian,cheap,Greenwich Village,12:13,15:55,1.41,0
+379,Chinese,medium,Astoria,12:30,4:42,4.49,1
+380,Italian,medium,Astoria,8:53,16:35,3.43,0
+381,Italian,medium,East Village,12:09,11:59,1.17,1
+382,Greek,cheap,Astoria,11:48,10:02,1.11,1
+383,Thai,expensive,East Village,10:14,11:06,4.95,1
+384,American,cheap,Chelsea,12:39,8:58,2.59,1
+385,Greek,expensive,Chinatown,12:11,15:46,2.11,0
+386,Japanese,expensive,Astoria,13:16,13:19,2.17,1
+387,Mediterranean,cheap,Chelsea,12:40,6:11,2.59,1
+388,Italian,medium,Tribeca,9:34,19:13,4.39,0
+389,Ethiopian,medium,Greenwich Village,11:49,10:36,3.07,1
+390,Mediterranean,cheap,FiDi,10:53,15:17,1.51,1
+391,Mexican,expensive,Koreatown,10:03,10:25,1.26,0
+392,French,medium,Koreatown,9:44,8:13,3.71,1
+393,Greek,cheap,Brooklyn Heights,13:08,3:00,3.48,0
+394,Mexican,expensive,Union Square,11:45,16:55,4.2,1
+395,Mediterranean,medium,Long Island City,13:29,2:57,2.92,0
+396,Somali,cheap,Upper West Side,9:34,5:26,2.62,0
+397,American,cheap,Upper East Side,8:39,7:59,2.03,1
+398,American,expensive,Union Square,13:19,18:46,1.34,1
+399,Thai,medium,Upper West Side,10:05,13:42,2.38,0
+400,Japanese,cheap,Upper East Side,8:51,17:34,1.46,0
+401,Greek,medium,Greenwich Village,11:32,19:25,3.68,1
+402,Japanese,medium,Gramercy,9:50,17:01,1.55,1
+403,Japanese,expensive,Upper East Side,12:47,4:05,3.45,0
+404,Thai,cheap,East Village,10:31,7:10,4.43,1
+405,Italian,medium,Union Square,12:06,6:27,3.08,0
+406,American,medium,Upper West Side,10:03,17:13,3.43,1
+407,Mediterranean,cheap,Long Island City,12:06,3:17,4.69,1
+408,Somali,medium,Upper East Side,11:24,16:02,2.19,1
+409,Somali,expensive,Chelsea,13:37,14:07,2.21,1
+410,Italian,cheap,Upper West Side,8:35,11:57,1.69,0
+411,Thai,expensive,Tribeca,13:20,2:58,3.77,1
+412,Mediterranean,medium,Upper West Side,13:11,18:32,3.67,0
+413,Indian,cheap,Chinatown,8:30,16:06,3.57,1
+414,Ethiopian,cheap,Tribeca,12:06,4:35,3.84,1
+415,Mexican,cheap,Harlem,9:02,18:06,1.37,1
+416,Japanese,expensive,Dumbo,13:09,7:25,4.31,0
+417,Mediterranean,expensive,Tribeca,11:24,14:33,1.68,1
+418,Indian,medium,FiDi,12:19,11:23,3.35,0
+419,Mediterranean,expensive,Park Slope,10:51,17:22,4.83,1
+420,Mexican,medium,Long Island City,10:26,5:47,1.95,0
+421,Thai,medium,FiDi,12:40,3:47,3.36,1
+422,Thai,cheap,Park Slope,12:25,6:14,2.24,0
+423,Mexican,cheap,Union Square,12:55,13:04,3.02,1
+424,Japanese,cheap,Koreatown,11:11,4:24,2.87,1
+425,Indian,expensive,Harlem,10:09,14:38,2.22,0
+426,Greek,cheap,Harlem,10:20,6:07,1.45,1
+427,Mediterranean,medium,Gramercy,13:08,10:32,1.88,0
+428,Italian,medium,Tribeca,8:33,17:39,1.02,0
+429,Ethiopian,cheap,Greenwich Village,13:10,7:11,2.95,0
+430,Burmese,medium,Upper East Side,10:03,10:35,4.82,1
+431,Somali,cheap,Chelsea,11:56,6:33,2.07,1
+432,French,cheap,SoHo,12:53,19:28,3.03,1
+433,Mediterranean,expensive,Williamsburg,11:55,10:59,2.77,0
+434,Mediterranean,expensive,Upper East Side,11:14,19:29,4.52,1
+435,French,medium,Gramercy,13:18,18:33,2.03,1
+436,Ethiopian,expensive,Gramercy,9:04,14:58,1.2,1
+437,Greek,cheap,FiDi,13:22,15:44,4.87,0
+438,Mediterranean,expensive,Chinatown,9:20,10:33,3.18,1
+439,Mediterranean,medium,Chinatown,12:32,5:25,3.46,1
+440,French,medium,Chinatown,11:13,19:03,4.62,0
+441,Burmese,cheap,Astoria,9:00,6:02,4.25,0
+442,Chinese,expensive,Tribeca,10:38,9:27,2.77,1
+443,Chinese,medium,Williamsburg,8:42,19:05,4.45,0
+444,French,cheap,Chinatown,13:21,13:17,1.47,1
+445,Italian,expensive,Gramercy,13:30,14:09,2.8,0
+446,Thai,medium,Park Slope,10:54,8:19,1.24,1
+447,Thai,cheap,Brooklyn Heights,12:19,8:44,3.72,1
+448,Japanese,cheap,East Village,10:34,12:55,4.28,0
+449,Chinese,cheap,Chelsea,13:24,19:34,4.64,1
+450,Italian,expensive,East Village,13:34,9:55,1.57,0
+451,Mexican,expensive,Gramercy,9:02,13:52,3.24,0
+452,Mediterranean,expensive,Gramercy,13:59,9:08,3.98,0
+453,French,expensive,Hell's Kitchen,9:02,10:16,2.94,1
+454,Burmese,medium,East Village,12:10,5:03,4.96,0
+455,Mediterranean,medium,Tribeca,9:44,17:33,1.79,1
+456,Japanese,cheap,Long Island City,10:24,2:29,2.53,1
+457,Mediterranean,cheap,Dumbo,13:06,19:31,4.65,0
+458,Japanese,medium,FiDi,11:44,6:03,2.74,0
+459,Somali,cheap,Dumbo,9:19,14:28,4.55,0
+460,Italian,expensive,Upper East Side,10:41,19:22,2.41,0
+461,Burmese,medium,SoHo,13:59,14:41,5.0,0
+462,Burmese,cheap,Upper West Side,8:36,5:18,3.43,1
+463,American,medium,Koreatown,12:25,15:00,4.65,1
+464,Burmese,cheap,Williamsburg,11:31,11:29,1.8,0
+465,American,medium,Harlem,13:54,15:05,4.14,1
+466,Italian,cheap,Upper West Side,13:56,4:55,3.69,0
+467,Mediterranean,medium,East Village,12:39,3:17,1.18,0
+468,Indian,expensive,FiDi,9:01,10:48,3.6,0
+469,Somali,medium,Greenwich Village,10:13,18:15,2.07,1
+470,Somali,medium,Union Square,13:29,16:07,3.95,0
+471,Mediterranean,medium,Williamsburg,10:37,9:42,4.42,1
+472,Burmese,expensive,FiDi,11:40,14:23,3.72,1
+473,French,cheap,Park Slope,9:48,9:15,4.66,1
+474,Mexican,medium,Upper West Side,8:45,3:08,3.52,0
+475,Somali,cheap,Astoria,9:11,12:29,1.66,1
+476,Chinese,expensive,Brooklyn Heights,9:23,10:36,4.73,0
+477,Indian,expensive,Brooklyn Heights,10:48,6:23,4.36,0
+478,Chinese,medium,East Village,9:45,11:35,2.67,1
+479,Indian,expensive,Chinatown,13:04,3:38,4.0,1
+480,Somali,medium,Upper East Side,11:05,18:44,3.72,1
+481,Mediterranean,cheap,Union Square,8:56,6:19,4.21,0
+482,Thai,medium,Tribeca,12:03,2:18,1.51,1
+483,American,cheap,Brooklyn Heights,10:27,15:56,2.83,0
+484,Ethiopian,expensive,Chinatown,8:41,10:21,4.57,0
+485,Mediterranean,expensive,Chelsea,8:34,2:44,2.19,1
+486,Italian,medium,SoHo,10:08,6:16,1.18,1
+487,Italian,cheap,Chelsea,9:18,14:07,3.3,0
+488,Burmese,cheap,Greenwich Village,11:27,14:14,2.44,1
+489,Somali,medium,Long Island City,8:38,3:02,3.52,0
+490,French,medium,Greenwich Village,9:57,15:56,2.06,0
+491,Mediterranean,medium,Park Slope,11:26,13:24,3.6,0
+492,Chinese,medium,Tribeca,13:40,15:28,1.1,0
+493,Mediterranean,medium,Chelsea,12:56,18:30,1.78,1
+494,Indian,medium,Union Square,12:31,19:31,2.6,1
+495,American,medium,Upper East Side,11:12,19:58,1.31,0
+496,Greek,expensive,Chinatown,9:35,3:49,4.12,1
+497,French,cheap,Astoria,10:27,8:55,2.18,1
+498,Thai,cheap,Park Slope,9:24,7:59,3.75,0
+499,Chinese,expensive,Gramercy,11:09,7:16,4.03,0
+500,Mediterranean,cheap,Park Slope,13:32,9:01,2.74,1
+501,Chinese,medium,Greenwich Village,9:29,11:46,1.16,0
+502,Mediterranean,cheap,Brooklyn Heights,10:42,10:52,4.02,1
+503,Japanese,medium,FiDi,13:44,9:56,3.44,0
+504,Chinese,cheap,Tribeca,12:51,17:02,2.52,0
+505,Chinese,cheap,Park Slope,11:22,16:07,4.11,1
+506,Mediterranean,medium,Astoria,10:16,4:11,1.06,0
+507,Greek,cheap,Union Square,8:37,15:46,2.59,0
+508,Greek,cheap,Chinatown,13:01,16:06,2.32,0
+509,Burmese,expensive,Park Slope,13:40,4:06,2.77,0
+510,Ethiopian,expensive,SoHo,13:54,9:07,2.71,0
+511,Greek,expensive,Harlem,11:56,14:10,2.88,0
+512,Burmese,cheap,Greenwich Village,12:33,9:01,1.7,1
+513,Thai,cheap,East Village,10:52,10:09,3.62,0
+514,French,medium,Gramercy,10:03,8:06,1.69,1
+515,Japanese,medium,Tribeca,9:51,3:38,1.91,0
+516,Somali,cheap,FiDi,13:06,18:35,2.35,1
+517,Italian,expensive,East Village,12:53,7:05,1.77,0
+518,Indian,cheap,Upper East Side,9:45,6:30,4.8,0
+519,Indian,medium,Union Square,10:22,10:59,2.73,0
+520,American,expensive,Park Slope,11:32,5:23,3.12,1
+521,Ethiopian,cheap,Union Square,9:28,8:35,3.88,0
+522,Mediterranean,expensive,Upper East Side,9:11,9:09,1.38,0
+523,Indian,medium,Harlem,9:09,17:10,1.44,1
+524,Mediterranean,expensive,SoHo,10:10,18:37,4.4,0
+525,Mediterranean,expensive,Union Square,11:17,14:50,2.71,1
+526,American,expensive,Koreatown,13:18,7:18,1.79,0
+527,American,cheap,Chinatown,13:05,6:01,1.49,0
+528,Chinese,cheap,Harlem,10:20,7:01,1.11,0
+529,Indian,medium,Greenwich Village,11:39,9:58,3.52,0
+530,Greek,medium,Williamsburg,8:49,5:30,1.8,1
+531,French,cheap,Williamsburg,13:22,19:10,3.52,1
+532,Mexican,cheap,FiDi,12:50,3:36,3.15,0
+533,Japanese,cheap,Greenwich Village,11:57,10:27,3.37,0
+534,Mediterranean,cheap,SoHo,8:59,7:59,4.2,1
+535,Somali,cheap,East Village,11:35,16:30,4.59,0
+536,Somali,cheap,Park Slope,12:15,14:17,3.4,1
+537,Burmese,medium,Astoria,12:09,16:02,1.62,0
+538,Thai,cheap,Chinatown,9:05,11:59,2.03,1
+539,Somali,medium,East Village,8:34,16:18,1.47,0
+540,Ethiopian,expensive,Chelsea,8:40,19:17,3.3,1
+541,Thai,expensive,Tribeca,13:07,5:48,1.3,1
+542,French,expensive,Brooklyn Heights,12:54,18:41,1.59,1
+543,Japanese,cheap,Greenwich Village,10:34,3:59,3.31,0
+544,Indian,expensive,FiDi,13:45,11:08,3.4,1
+545,Indian,medium,Dumbo,12:06,4:52,4.0,0
+546,Chinese,cheap,Upper East Side,11:44,5:20,4.65,1
+547,Mexican,medium,FiDi,11:09,10:35,4.67,0
+548,Mexican,cheap,Koreatown,10:43,7:32,4.2,1
+549,Mediterranean,cheap,Upper East Side,8:42,5:44,3.15,1
+550,Greek,expensive,East Village,13:27,12:35,3.71,1
+551,Thai,medium,Tribeca,11:04,7:26,2.75,1
+552,American,expensive,Tribeca,13:08,18:07,4.01,1
+553,Chinese,cheap,Tribeca,10:00,8:39,4.2,1
+554,French,cheap,Union Square,13:08,10:41,2.6,1
+555,Chinese,expensive,Upper East Side,12:38,3:40,4.86,0
+556,Japanese,cheap,Greenwich Village,10:35,19:14,4.2,0
+557,Mediterranean,cheap,Upper West Side,8:34,10:58,3.47,1
+558,Chinese,medium,Koreatown,12:24,13:15,3.88,1
+559,Mediterranean,cheap,Williamsburg,13:10,17:21,4.27,0
+560,American,expensive,Park Slope,10:24,12:40,4.45,1
+561,Mediterranean,medium,East Village,9:50,11:24,3.36,1
+562,Thai,medium,Dumbo,11:52,19:21,1.24,1
+563,American,cheap,Astoria,11:43,14:25,4.6,1
+564,Burmese,expensive,Astoria,10:35,11:01,1.02,1
+565,Indian,medium,Chelsea,10:47,17:06,2.47,0
+566,Mediterranean,expensive,SoHo,13:57,17:26,2.98,0
+567,Somali,medium,SoHo,13:24,4:48,1.58,1
+568,Indian,cheap,Upper East Side,10:16,2:26,1.72,1
+569,American,expensive,Gramercy,11:24,8:13,1.13,1
+570,French,expensive,Greenwich Village,12:05,11:03,4.3,0
+571,Japanese,cheap,Koreatown,12:46,18:06,1.72,1
+572,American,expensive,Gramercy,12:34,4:11,4.88,1
+573,Somali,expensive,FiDi,12:21,16:49,1.69,0
+574,Mediterranean,cheap,Tribeca,13:24,18:05,1.22,1
+575,Mexican,medium,Upper East Side,9:21,10:49,3.32,0
+576,Chinese,cheap,Union Square,13:27,15:28,4.15,1
+577,Somali,cheap,Astoria,12:12,15:02,1.72,1
+578,Indian,expensive,Chinatown,8:36,16:45,1.35,1
+579,Indian,medium,Union Square,9:55,7:29,3.36,0
+580,Mexican,medium,Union Square,12:21,3:25,3.43,0
+581,Japanese,cheap,Hell's Kitchen,11:47,14:27,2.91,1
+582,French,cheap,Tribeca,13:46,17:43,2.17,1
+583,American,expensive,Park Slope,9:14,17:44,2.47,1
+584,Japanese,expensive,Tribeca,12:30,6:18,4.81,1
+585,Indian,medium,Union Square,8:44,14:29,3.71,0
+586,Japanese,cheap,Long Island City,9:07,12:53,2.73,1
+587,French,medium,Gramercy,9:34,13:08,2.75,0
+588,Indian,medium,Tribeca,10:25,16:08,1.26,1
+589,Mediterranean,cheap,FiDi,11:03,4:38,2.22,1
+590,Mediterranean,cheap,SoHo,8:31,12:29,4.76,1
+591,Indian,cheap,Williamsburg,13:59,18:37,2.44,1
+592,Japanese,cheap,Upper West Side,12:44,11:03,2.21,1
+593,Thai,cheap,Chelsea,10:44,17:48,3.54,0
+594,Japanese,expensive,Astoria,9:56,2:34,4.18,0
+595,Mediterranean,medium,Park Slope,9:10,17:20,2.46,0
+596,Mexican,expensive,Harlem,12:08,8:53,4.45,0
+597,Japanese,medium,Union Square,13:09,3:45,4.2,1
+598,Italian,medium,Koreatown,11:53,10:59,2.31,1
+599,Mexican,cheap,FiDi,9:51,7:23,3.89,0
+600,Italian,expensive,Hell's Kitchen,11:06,13:47,4.12,0
+601,Somali,expensive,Long Island City,9:42,13:02,1.5,0
+602,Mediterranean,expensive,Dumbo,9:58,8:16,4.32,1
+603,Mediterranean,expensive,Williamsburg,13:38,12:03,3.59,0
+604,Ethiopian,expensive,Upper West Side,10:40,5:34,3.0,1
+605,French,expensive,Chelsea,9:39,5:12,4.56,0
+606,Indian,medium,Dumbo,11:49,11:39,4.66,0
+607,French,cheap,Long Island City,11:27,4:17,3.74,0
+608,Indian,medium,Park Slope,13:54,18:25,4.56,1
+609,Japanese,expensive,Harlem,10:27,8:14,2.85,1
+610,Italian,medium,Koreatown,9:29,3:06,3.24,1
+611,Burmese,expensive,Chinatown,8:57,13:58,4.83,0
+612,Greek,cheap,Astoria,11:42,4:19,1.58,1
+613,Mediterranean,cheap,Williamsburg,11:01,12:47,3.22,1
+614,Mediterranean,medium,Williamsburg,12:49,10:33,4.46,1
+615,Burmese,medium,Park Slope,13:27,16:28,2.2,1
+616,Greek,medium,Park Slope,11:34,12:31,1.02,0
+617,Chinese,cheap,Park Slope,13:28,15:10,1.16,0
+618,Thai,medium,Koreatown,12:41,18:56,1.21,1
+619,Ethiopian,cheap,Dumbo,9:52,3:05,3.97,0
+620,Burmese,cheap,Upper East Side,11:58,16:41,3.67,0
+621,Burmese,expensive,SoHo,12:42,19:54,2.56,1
+622,Japanese,medium,Dumbo,10:44,10:46,4.15,0
+623,Mediterranean,expensive,Harlem,10:07,6:28,3.01,1
+624,Burmese,medium,Harlem,13:14,15:15,4.41,1
+625,Chinese,medium,Greenwich Village,8:48,9:08,4.82,1
+626,Chinese,cheap,Chelsea,13:02,12:12,3.51,1
+627,Burmese,expensive,Dumbo,11:54,19:34,3.55,1
+628,Chinese,cheap,Williamsburg,9:54,14:06,2.48,1
+629,Somali,medium,Koreatown,10:25,10:29,1.71,0
+630,French,medium,Chelsea,8:42,5:42,2.03,0
+631,Mexican,cheap,Union Square,12:47,15:05,2.01,1
+632,Ethiopian,expensive,Upper West Side,11:37,2:16,1.56,0
+633,American,cheap,Brooklyn Heights,13:51,10:42,2.07,1
+634,Burmese,medium,Upper East Side,10:48,11:35,5.0,1
+635,French,medium,Brooklyn Heights,12:04,6:06,1.04,1
+636,Mediterranean,medium,Upper East Side,13:46,8:09,2.99,0
+637,Chinese,expensive,Gramercy,12:29,7:15,4.53,0
+638,American,expensive,Harlem,11:22,7:17,2.87,1
+639,Indian,cheap,Williamsburg,11:30,15:36,2.12,1
+640,Japanese,cheap,Park Slope,12:47,14:17,1.07,0
+641,Thai,medium,Brooklyn Heights,9:08,5:37,3.26,0
+642,Ethiopian,cheap,Brooklyn Heights,11:32,13:31,2.48,0
+643,Mediterranean,cheap,Park Slope,11:56,14:19,2.49,0
+644,American,medium,Upper East Side,13:46,18:55,2.42,0
+645,Japanese,cheap,Upper East Side,8:30,18:16,3.58,1
+646,Chinese,expensive,Park Slope,9:03,4:20,4.03,0
+647,Greek,cheap,Upper East Side,10:45,16:09,2.01,0
+648,Italian,cheap,Astoria,8:38,15:53,4.95,0
+649,French,cheap,Long Island City,12:56,18:49,3.94,0
+650,Thai,medium,Long Island City,12:24,6:20,1.1,1
+651,Greek,cheap,Brooklyn Heights,9:37,5:59,1.34,0
+652,Mediterranean,cheap,Upper West Side,9:29,15:26,4.95,0
+653,Thai,medium,Gramercy,11:09,17:38,2.54,0
+654,Mediterranean,cheap,Upper East Side,9:54,18:34,3.74,1
+655,Mexican,cheap,Chelsea,9:13,10:58,2.94,0
+656,Somali,medium,Greenwich Village,10:49,14:05,1.47,0
+657,French,medium,Gramercy,8:37,12:09,3.62,1
+658,Burmese,medium,Brooklyn Heights,12:52,18:25,3.68,0
+659,Italian,medium,Brooklyn Heights,10:46,13:52,3.47,0
+660,Ethiopian,expensive,SoHo,11:10,18:51,1.35,1
+661,Ethiopian,cheap,Gramercy,13:27,19:06,3.37,0
+662,French,cheap,Brooklyn Heights,9:52,11:46,4.52,1
+663,French,cheap,Upper East Side,13:55,4:07,1.93,1
+664,Thai,medium,Long Island City,9:43,18:19,4.77,0
+665,Burmese,expensive,Chelsea,8:37,15:18,4.43,1
+666,Burmese,medium,Long Island City,13:01,16:53,1.95,1
+667,Italian,medium,Gramercy,8:57,5:29,4.89,0
+668,Somali,medium,Greenwich Village,12:32,4:32,3.36,0
+669,Mexican,expensive,Gramercy,9:28,4:13,4.89,1
+670,Mediterranean,medium,SoHo,9:08,17:07,2.64,0
+671,American,cheap,Long Island City,13:45,3:47,2.01,0
+672,Indian,cheap,Koreatown,13:00,10:51,4.09,1
+673,Mediterranean,medium,Park Slope,12:14,16:01,2.81,1
+674,Italian,medium,Hell's Kitchen,12:57,18:30,3.24,0
+675,Japanese,expensive,Union Square,11:20,14:45,2.41,1
+676,American,medium,Harlem,13:27,17:01,3.81,0
+677,French,medium,Gramercy,11:32,3:14,2.97,1
+678,Greek,expensive,Dumbo,8:42,16:40,3.59,0
+679,Japanese,cheap,Dumbo,8:44,9:58,3.05,1
+680,Mediterranean,medium,Chelsea,11:55,14:04,2.06,1
+681,Mediterranean,cheap,Astoria,10:31,14:53,3.16,1
+682,American,expensive,Greenwich Village,11:45,15:16,3.68,1
+683,Burmese,medium,Hell's Kitchen,9:55,12:12,2.6,1
+684,Indian,cheap,Dumbo,13:10,7:54,2.19,0
+685,Thai,medium,Chinatown,10:29,10:21,4.19,0
+686,American,medium,East Village,10:01,6:51,2.56,0
+687,Italian,expensive,Harlem,10:51,18:39,1.08,1
+688,Chinese,expensive,Chelsea,10:43,11:26,1.77,0
+689,Greek,medium,FiDi,8:49,6:21,2.48,1
+690,Burmese,medium,Koreatown,9:44,19:01,4.55,1
+691,Japanese,cheap,Upper West Side,12:01,12:27,2.13,0
+692,Mediterranean,cheap,FiDi,12:14,9:48,2.14,1
+693,Italian,medium,Harlem,9:57,10:08,3.47,0
+694,Thai,medium,Astoria,10:07,11:24,4.61,1
+695,Chinese,cheap,SoHo,10:23,2:11,4.32,1
+696,Chinese,medium,Astoria,11:44,19:34,3.87,0
+697,Mediterranean,cheap,Union Square,11:39,10:48,3.05,1
+698,Japanese,cheap,SoHo,11:03,4:36,4.44,0
+699,Mexican,medium,Chinatown,10:22,13:17,3.64,0
+700,Somali,medium,Long Island City,10:32,19:10,3.76,0
+701,Italian,expensive,Tribeca,9:19,5:39,2.68,1
+702,Chinese,medium,Koreatown,12:37,10:41,2.28,1
+703,Chinese,expensive,Union Square,10:06,6:50,3.42,1
+704,Mediterranean,medium,Harlem,12:59,15:40,3.21,0
+705,American,medium,Harlem,11:57,17:39,1.56,0
+706,American,medium,Upper East Side,12:18,17:54,4.04,0
+707,Chinese,cheap,Williamsburg,12:24,18:00,2.39,0
+708,Japanese,cheap,Dumbo,9:18,2:41,2.67,1
+709,Mediterranean,expensive,Chinatown,10:37,3:25,3.84,1
+710,Ethiopian,cheap,Park Slope,9:09,16:58,2.77,0
+711,Mediterranean,cheap,Gramercy,10:32,7:08,2.5,0
+712,Mexican,medium,Chinatown,10:30,18:48,4.74,0
+713,Somali,cheap,Upper West Side,9:28,9:34,3.03,0
+714,Ethiopian,medium,Brooklyn Heights,13:36,11:17,1.55,0
+715,Mediterranean,cheap,Astoria,10:45,2:47,4.69,1
+716,Chinese,cheap,Dumbo,13:27,2:36,1.68,1
+717,Italian,expensive,Park Slope,11:51,14:43,4.5,0
+718,Japanese,expensive,Tribeca,12:28,18:53,3.34,1
+719,Italian,expensive,Harlem,10:55,6:23,3.68,0
+720,Mediterranean,cheap,Koreatown,13:09,9:03,2.97,0
+721,French,cheap,Koreatown,11:42,8:02,4.34,1
+722,Italian,cheap,Dumbo,9:20,2:26,2.21,0
+723,French,cheap,Chelsea,9:20,14:43,4.4,0
+724,Somali,medium,Chinatown,9:04,3:36,3.69,1
+725,Italian,medium,SoHo,11:23,3:07,3.79,0
+726,Mediterranean,expensive,Hell's Kitchen,9:59,6:32,3.36,1
+727,Ethiopian,expensive,Hell's Kitchen,13:45,9:30,4.71,0
+728,Japanese,medium,Dumbo,9:57,4:19,3.72,1
+729,Burmese,cheap,Long Island City,11:20,3:46,3.66,0
+730,Chinese,medium,Tribeca,13:14,19:15,3.61,1
+731,French,expensive,Hell's Kitchen,12:21,18:54,4.6,1
+732,Burmese,expensive,Chelsea,8:30,16:43,1.79,1
+733,Italian,cheap,Upper West Side,11:06,12:43,2.33,1
+734,Chinese,cheap,Long Island City,13:20,3:02,3.18,0
+735,Mediterranean,expensive,Union Square,11:14,18:15,1.34,0
+736,Italian,cheap,Union Square,11:09,5:43,3.36,1
+737,Japanese,medium,Tribeca,8:55,3:57,2.04,0
+738,French,expensive,Tribeca,11:35,16:40,4.17,1
+739,Greek,expensive,Upper East Side,12:02,15:38,2.19,0
+740,Greek,expensive,Park Slope,10:39,5:21,4.94,0
+741,French,medium,Long Island City,13:27,17:13,2.81,0
+742,Japanese,medium,Astoria,10:54,16:52,1.11,1
+743,Japanese,cheap,Harlem,9:25,13:10,3.52,0
+744,Japanese,expensive,Harlem,10:29,15:38,3.26,0
+745,Chinese,medium,SoHo,10:20,10:26,4.81,0
+746,American,cheap,Chelsea,9:09,3:50,2.76,0
+747,Japanese,medium,Greenwich Village,10:45,13:38,3.82,1
+748,Ethiopian,expensive,Hell's Kitchen,11:56,19:09,1.29,1
+749,Somali,expensive,Brooklyn Heights,11:53,17:00,3.99,0
+750,Indian,medium,Upper East Side,10:29,17:23,2.05,1
+751,Mexican,medium,Upper East Side,10:06,17:51,3.18,1
+752,Greek,cheap,SoHo,11:21,4:28,2.96,0
+753,Mexican,cheap,Koreatown,11:07,5:41,2.38,0
+754,Ethiopian,medium,Chelsea,9:30,10:09,2.6,1
+755,French,medium,Chinatown,9:57,17:47,1.23,0
+756,Japanese,medium,Chinatown,10:54,15:42,1.03,0
+757,American,medium,Park Slope,9:52,3:31,1.85,1
+758,Mediterranean,medium,Astoria,10:43,9:54,2.66,1
+759,Greek,medium,Park Slope,11:54,5:39,1.24,0
+760,French,medium,Upper East Side,13:26,4:40,4.57,1
+761,Chinese,medium,Upper East Side,11:32,11:43,4.98,1
+762,Chinese,cheap,Chelsea,10:42,11:05,2.91,1
+763,Chinese,expensive,Gramercy,9:11,6:23,4.42,0
+764,Chinese,cheap,Tribeca,12:38,13:12,4.42,1
+765,Chinese,expensive,Chinatown,12:26,10:21,2.96,0
+766,Mexican,expensive,Koreatown,10:21,8:23,4.43,1
+767,American,cheap,East Village,10:13,11:00,4.99,0
+768,Chinese,medium,Greenwich Village,12:30,14:19,1.65,0
+769,Italian,cheap,SoHo,8:30,16:50,4.42,0
+770,Chinese,cheap,East Village,12:01,9:20,2.56,1
+771,Thai,cheap,Dumbo,9:42,9:45,3.34,0
+772,Chinese,expensive,Williamsburg,13:06,7:10,4.89,0
+773,Burmese,expensive,Koreatown,10:56,8:03,2.4,1
+774,Italian,expensive,Gramercy,9:16,14:58,3.98,0
+775,Ethiopian,cheap,Park Slope,13:08,15:32,4.35,0
+776,Greek,cheap,Chinatown,9:14,10:06,1.96,1
+777,Mexican,cheap,Williamsburg,13:57,17:31,1.51,0
+778,Thai,cheap,Union Square,9:04,11:34,3.36,1
+779,Ethiopian,medium,Williamsburg,9:24,17:28,4.25,0
+780,Indian,expensive,Chinatown,11:16,4:13,2.91,0
+781,Mexican,cheap,Long Island City,9:42,11:51,3.81,1
+782,Ethiopian,medium,Brooklyn Heights,12:04,15:01,3.56,1
+783,Greek,expensive,Union Square,11:27,2:08,4.73,0
+784,Chinese,cheap,Chinatown,12:17,14:02,1.07,1
+785,French,medium,Greenwich Village,10:38,4:19,4.83,1
+786,Ethiopian,expensive,Chinatown,13:47,3:31,3.52,0
+787,Ethiopian,cheap,Park Slope,9:01,6:00,2.28,1
+788,Burmese,medium,Williamsburg,12:31,10:33,2.15,0
+789,Japanese,expensive,Chinatown,11:38,16:57,3.35,0
+790,French,expensive,Williamsburg,12:48,4:42,3.78,1
+791,Indian,cheap,Chinatown,12:03,2:08,4.76,0
+792,Ethiopian,cheap,Hell's Kitchen,11:36,8:17,4.99,0
+793,Ethiopian,expensive,Gramercy,11:14,13:07,4.77,0
+794,French,expensive,East Village,13:14,16:20,4.69,1
+795,Mexican,medium,FiDi,13:36,12:30,3.37,0
+796,Mediterranean,expensive,Chelsea,9:39,15:17,4.01,0
+797,Mediterranean,medium,Hell's Kitchen,9:40,9:49,1.22,1
+798,Thai,expensive,Koreatown,9:23,19:42,3.18,1
+799,Ethiopian,cheap,Park Slope,13:07,14:05,2.86,0
+800,Indian,cheap,Harlem,9:30,3:35,4.06,1
+801,Chinese,expensive,Brooklyn Heights,9:37,11:24,3.96,1
+802,Thai,expensive,Gramercy,12:35,4:30,2.44,0
+803,Mediterranean,medium,SoHo,9:37,12:47,3.41,0
+804,Mediterranean,cheap,Upper East Side,13:27,18:04,3.75,1
+805,French,expensive,Upper West Side,12:10,8:58,2.58,0
+806,Thai,expensive,FiDi,13:19,16:17,1.72,1
+807,Indian,expensive,Williamsburg,12:59,5:50,1.74,0
+808,Japanese,expensive,Park Slope,13:17,18:58,2.45,0
+809,Thai,cheap,East Village,11:52,6:38,3.08,0
+810,Mediterranean,cheap,Harlem,13:08,8:28,2.07,1
+811,Ethiopian,expensive,Harlem,11:35,7:07,2.62,1
+812,Japanese,expensive,Harlem,13:30,6:18,2.98,1
+813,Thai,cheap,Long Island City,13:21,3:51,3.72,0
+814,Italian,medium,Chinatown,9:08,15:50,1.64,1
+815,French,medium,Gramercy,9:40,11:10,4.67,0
+816,Indian,cheap,East Village,9:29,3:09,4.17,0
+817,Mediterranean,expensive,Park Slope,9:56,4:50,2.96,1
+818,Greek,expensive,Williamsburg,11:05,17:43,1.15,1
+819,Greek,medium,Upper East Side,9:04,18:05,3.93,0
+820,Mediterranean,cheap,Tribeca,12:53,9:22,3.27,0
+821,Mediterranean,expensive,Chelsea,11:18,16:44,3.64,1
+822,French,expensive,Chinatown,10:59,5:04,4.34,1
+823,Somali,medium,Upper East Side,9:34,14:06,4.74,0
+824,American,medium,Hell's Kitchen,13:10,4:43,3.86,1
+825,Indian,cheap,Upper East Side,12:36,6:44,1.12,1
+826,Indian,expensive,Astoria,10:57,15:27,4.09,0
+827,Chinese,expensive,Tribeca,13:00,14:42,3.38,0
+828,Ethiopian,expensive,Hell's Kitchen,12:00,19:49,3.79,1
+829,Chinese,cheap,Long Island City,13:15,5:46,1.23,0
+830,Chinese,expensive,SoHo,8:48,12:04,3.13,1
+831,Mediterranean,cheap,Tribeca,10:18,13:31,4.26,0
+832,Thai,medium,SoHo,9:49,19:02,2.29,0
+833,Mediterranean,cheap,Tribeca,9:56,12:25,3.97,1
+834,Japanese,cheap,East Village,12:39,6:18,3.56,0
+835,Italian,medium,FiDi,13:12,18:50,3.28,1
+836,Somali,expensive,Chinatown,10:37,4:25,2.89,0
+837,Greek,medium,East Village,12:31,14:29,1.06,1
+838,Japanese,cheap,Brooklyn Heights,13:40,16:48,1.64,0
+839,Mexican,medium,SoHo,9:11,7:11,3.2,0
+840,American,medium,Dumbo,11:41,9:27,4.65,1
+841,Thai,medium,Williamsburg,9:57,11:59,3.14,0
+842,Burmese,expensive,Hell's Kitchen,9:21,7:36,3.89,1
+843,Chinese,expensive,Upper West Side,12:50,17:52,4.22,1
+844,Thai,expensive,Williamsburg,12:24,9:34,2.4,1
+845,Mexican,cheap,Greenwich Village,9:23,18:40,2.33,1
+846,Mediterranean,cheap,Upper East Side,13:33,2:17,1.65,1
+847,French,medium,Williamsburg,10:51,16:16,1.3,0
+848,Ethiopian,cheap,Upper East Side,10:33,4:06,1.74,1
+849,Indian,expensive,Koreatown,13:39,7:45,2.95,1
+850,Mediterranean,medium,Gramercy,9:38,13:57,3.12,0
+851,Japanese,medium,Koreatown,9:13,16:13,3.24,1
+852,Thai,medium,Koreatown,9:10,19:56,3.13,0
+853,Burmese,medium,Harlem,8:56,12:07,3.31,0
+854,Mediterranean,cheap,Dumbo,10:07,18:29,2.22,1
+855,Somali,medium,Tribeca,10:42,13:07,2.54,0
+856,Mediterranean,medium,Long Island City,13:44,11:36,4.85,0
+857,Ethiopian,medium,Koreatown,9:03,4:14,4.25,0
+858,Mexican,expensive,Gramercy,13:59,10:40,2.55,0
+859,Mexican,medium,Hell's Kitchen,12:00,8:06,3.76,1
+860,Indian,expensive,Park Slope,13:43,5:51,3.11,1
+861,Thai,expensive,SoHo,11:33,2:16,1.86,0
+862,Chinese,cheap,Harlem,13:09,3:26,1.27,1
+863,Mediterranean,cheap,Brooklyn Heights,10:04,6:57,1.22,1
+864,Indian,cheap,Dumbo,11:35,18:55,1.07,0
+865,French,cheap,Hell's Kitchen,13:10,7:36,4.72,0
+866,Somali,expensive,Koreatown,9:18,16:42,3.0,0
+867,Indian,medium,Park Slope,8:47,11:44,4.91,0
+868,Chinese,medium,SoHo,9:43,3:22,1.39,1
+869,Thai,cheap,Williamsburg,8:45,17:45,1.7,0
+870,Japanese,medium,Harlem,9:31,3:31,2.79,0
+871,Chinese,medium,Williamsburg,10:35,13:44,1.14,0
+872,Greek,expensive,Brooklyn Heights,9:33,9:17,1.23,1
+873,American,expensive,Greenwich Village,12:26,3:58,3.04,0
+874,Mediterranean,expensive,Chinatown,9:16,6:52,1.45,1
+875,Greek,medium,Dumbo,9:11,19:53,3.86,1
+876,American,medium,Greenwich Village,9:24,5:35,2.74,1
+877,Greek,expensive,Hell's Kitchen,12:31,18:11,4.69,1
+878,American,cheap,Chelsea,9:56,12:02,1.34,1
+879,Mexican,cheap,Long Island City,9:26,2:57,4.27,0
+880,Chinese,cheap,Gramercy,9:42,9:39,1.3,1
+881,Indian,expensive,Brooklyn Heights,11:39,10:59,3.37,1
+882,Somali,expensive,Union Square,10:52,3:29,3.25,1
+883,American,medium,Park Slope,9:54,10:32,1.59,0
+884,Mediterranean,expensive,Astoria,9:48,6:07,3.42,0
+885,Mexican,medium,Chinatown,9:22,17:07,2.49,0
+886,Mexican,expensive,Union Square,11:27,5:58,3.01,1
+887,Burmese,medium,Chinatown,12:56,13:30,3.42,1
+888,Somali,cheap,Hell's Kitchen,9:09,15:20,1.13,0
+889,Ethiopian,expensive,SoHo,9:42,4:10,2.25,0
+890,Mexican,medium,Williamsburg,10:39,12:05,4.42,0
+891,Mediterranean,medium,Astoria,11:23,5:33,2.02,1
+892,Ethiopian,cheap,Koreatown,13:52,4:20,4.94,0
+893,Burmese,cheap,Gramercy,13:45,2:26,3.67,0
+894,Indian,medium,Hell's Kitchen,11:26,2:09,2.91,0
+895,Burmese,medium,Long Island City,9:16,2:08,4.72,0
+896,Somali,expensive,Park Slope,12:23,2:52,1.9,0
+897,Indian,expensive,Williamsburg,9:59,8:19,2.08,1
+898,Burmese,cheap,Upper East Side,10:16,16:46,4.77,0
+899,Somali,medium,Dumbo,11:33,18:26,4.09,0
+900,American,medium,Long Island City,10:59,2:10,3.23,1
+901,Italian,cheap,Astoria,11:03,5:25,3.64,1
+902,Japanese,cheap,Union Square,9:26,4:17,4.92,1
+903,Mediterranean,cheap,Upper West Side,8:34,8:33,4.46,1
+904,Chinese,cheap,Dumbo,10:04,14:11,1.58,1
+905,Somali,expensive,Harlem,13:41,17:36,2.56,1
+906,Mexican,cheap,Chinatown,13:44,7:10,4.29,1
+907,Indian,medium,Upper East Side,10:09,16:21,4.16,1
+908,Burmese,medium,Astoria,10:11,8:33,1.37,0
+909,Japanese,cheap,Harlem,13:10,6:49,1.67,0
+910,Mediterranean,medium,Park Slope,9:14,19:47,2.5,1
+911,Burmese,expensive,Upper West Side,11:34,4:05,3.51,0
+912,Thai,expensive,Union Square,11:55,7:48,4.01,1
+913,Mediterranean,cheap,Hell's Kitchen,8:47,15:02,4.56,1
+914,Somali,cheap,East Village,11:27,11:42,3.69,1
+915,American,expensive,Union Square,11:31,13:57,2.16,1
+916,Mexican,medium,Koreatown,13:36,2:36,2.8,1
+917,Somali,medium,Williamsburg,13:36,9:58,3.38,0
+918,French,medium,Tribeca,12:30,3:15,2.14,0
+919,Mediterranean,cheap,Hell's Kitchen,8:32,4:27,3.38,0
+920,Chinese,medium,Harlem,9:54,12:54,3.55,1
+921,Indian,expensive,Koreatown,8:59,7:10,1.33,0
+922,Japanese,expensive,Astoria,13:15,19:10,4.75,1
+923,Greek,cheap,Tribeca,12:23,7:02,3.9,1
+924,Somali,cheap,Hell's Kitchen,10:27,4:55,2.19,0
+925,Burmese,cheap,Greenwich Village,13:50,3:35,4.67,0
+926,Italian,expensive,Chelsea,12:41,6:26,3.17,1
+927,Burmese,medium,Gramercy,12:48,17:11,3.07,1
+928,Mexican,cheap,Williamsburg,8:45,10:58,1.91,0
+929,Thai,expensive,East Village,10:11,3:38,5.0,1
+930,Italian,cheap,Park Slope,10:40,15:39,1.03,1
+931,Burmese,expensive,SoHo,10:16,12:51,3.13,1
+932,Japanese,medium,Greenwich Village,9:15,7:24,4.41,0
+933,Somali,cheap,Gramercy,9:26,14:04,4.22,0
+934,Italian,cheap,Dumbo,12:24,14:20,4.84,0
+935,Greek,cheap,Chinatown,9:45,2:29,3.29,0
+936,Chinese,cheap,Harlem,12:57,9:14,2.57,0
+937,Mediterranean,expensive,Brooklyn Heights,11:08,11:18,1.16,0
+938,Italian,medium,East Village,13:19,17:05,3.14,1
+939,American,cheap,Upper West Side,11:38,10:08,3.38,0
+940,American,expensive,Brooklyn Heights,8:54,8:17,3.64,0
+941,Chinese,cheap,Chelsea,13:09,18:13,4.24,1
+942,American,medium,FiDi,13:26,5:39,4.57,1
+943,Ethiopian,expensive,Tribeca,9:31,18:41,4.74,0
+944,Greek,medium,Astoria,8:31,11:42,3.78,0
+945,Italian,cheap,Tribeca,13:04,13:50,2.06,1
+946,Greek,cheap,Harlem,11:50,15:24,1.42,0
+947,Burmese,expensive,Upper West Side,10:56,11:49,1.37,1
+948,Ethiopian,cheap,Dumbo,9:57,2:38,2.51,1
+949,Burmese,medium,Upper East Side,11:27,18:34,1.68,1
+950,Somali,expensive,Park Slope,9:43,8:20,2.96,0
+951,Italian,cheap,FiDi,11:36,6:22,1.42,0
+952,Ethiopian,medium,Long Island City,9:31,8:51,4.68,0
+953,Greek,cheap,Astoria,9:23,5:31,2.46,1
+954,Indian,cheap,Astoria,10:55,5:22,4.85,0
+955,Mediterranean,medium,Harlem,12:32,13:31,3.41,0
+956,Greek,medium,Long Island City,13:42,7:54,3.02,1
+957,Mediterranean,medium,Williamsburg,10:10,11:46,3.65,0
+958,Thai,expensive,Greenwich Village,12:34,11:50,3.88,1
+959,Somali,cheap,Chelsea,9:44,18:08,3.7,0
+960,Burmese,medium,Harlem,9:36,13:03,3.73,1
+961,Indian,expensive,Union Square,13:20,17:26,4.94,1
+962,Chinese,cheap,Chinatown,10:19,15:39,4.15,0
+963,Mediterranean,cheap,Astoria,10:39,10:54,1.64,0
+964,Greek,expensive,Tribeca,10:11,2:26,1.79,1
+965,Ethiopian,expensive,SoHo,13:56,13:25,1.28,0
+966,Mediterranean,expensive,Upper East Side,8:50,6:24,2.72,1
+967,Greek,expensive,East Village,8:52,6:44,4.61,0
+968,Italian,cheap,FiDi,9:19,16:48,1.93,1
+969,Italian,expensive,Brooklyn Heights,12:40,9:54,4.3,1
+970,Thai,cheap,Greenwich Village,9:00,17:00,2.56,1
+971,Italian,cheap,Upper East Side,10:07,15:05,1.06,1
+972,Somali,cheap,East Village,9:11,10:47,2.65,1
+973,American,medium,Harlem,10:46,10:49,2.56,1
+974,Mediterranean,cheap,Chelsea,10:38,14:09,2.42,1
+975,French,medium,Hell's Kitchen,11:41,14:42,2.73,0
+976,American,cheap,Greenwich Village,10:28,18:01,2.42,0
+977,American,medium,Williamsburg,9:26,3:03,2.38,0
+978,American,expensive,Brooklyn Heights,11:42,19:26,4.14,1
+979,Mediterranean,expensive,Park Slope,10:40,5:47,2.12,1
+980,American,expensive,Upper East Side,11:18,7:15,2.28,1
+981,Chinese,cheap,Astoria,10:43,13:47,4.73,0
+982,Thai,medium,FiDi,10:09,12:08,1.77,1
+983,Thai,expensive,SoHo,12:54,12:51,4.08,1
+984,Somali,expensive,Union Square,13:52,9:01,2.32,1
+985,Somali,medium,Brooklyn Heights,9:08,13:54,1.31,0
+986,Japanese,expensive,Chelsea,10:02,19:27,2.9,1
+987,Burmese,expensive,East Village,12:21,9:28,2.55,1
+988,American,medium,Gramercy,10:03,6:04,3.22,0
+989,American,medium,Brooklyn Heights,9:00,3:29,2.26,0
+990,French,cheap,Dumbo,10:46,14:29,2.37,0
+991,Somali,expensive,Astoria,11:18,8:31,3.88,1
+992,Thai,cheap,Brooklyn Heights,10:09,17:03,3.01,0
+993,Chinese,expensive,Harlem,9:22,9:51,4.12,1
+994,Chinese,cheap,SoHo,11:11,3:49,3.91,1
+995,Ethiopian,expensive,Gramercy,9:48,15:49,1.78,0
+996,French,medium,Park Slope,9:05,3:59,1.68,0
+997,Chinese,cheap,East Village,10:00,11:49,3.54,0
+998,Mediterranean,medium,FiDi,11:11,2:43,3.34,1
+999,Mexican,medium,Gramercy,11:51,13:03,1.76,1
+1000,Greek,expensive,Greenwich Village,13:37,19:34,1.49,0
